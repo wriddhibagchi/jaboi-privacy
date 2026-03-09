@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Chalo ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Jaboi ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -93,4 +93,5 @@ For questions about this privacy policy or your data:
 
 ## Your Consent
 
-By using Chalo, you consent to this privacy policy.
+
+By using Jaboi, you consent to this privacy policy.
