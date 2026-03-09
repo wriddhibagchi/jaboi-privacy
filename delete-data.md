@@ -1,18 +1,18 @@
-# Request Data Deletion — Chalo
+# Request Data Deletion — Jaboi
 
-**App:** Chalo — Your Travel Planner  
+**App:** Jaboi — Your Travel Planner  
 **Developer:** Wriddhi Bagchi
 **Contact:** wriddhi.bagchi@gmail.com
 
 ## How to delete your data
 
 **Option 1 — Delete directly in the app (instant)**  
-Open Chalo → Profile tab → Delete Account.  
+Open Jaboi → Profile tab → Delete Account.  
 This permanently deletes your account and all associated data immediately.
 
 **Option 2 — Email request**  
 Email wriddhi.bagchi@gmail.com with subject line "Data Deletion Request"  
-and include the email address linked to your Chalo account.  
+and include the email address linked to your Jaboi account.  
 We will process your request within 30 days.
 
 ## What gets deleted
