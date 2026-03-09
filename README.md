@@ -1,2 +1,2 @@
 # jaboi-privacy
-Privacy policy for Chalo app
+Privacy policy for Jaboi app
